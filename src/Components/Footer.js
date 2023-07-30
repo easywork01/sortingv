@@ -20,7 +20,7 @@ function Footer(){
             <script>{window.addEventListener('resize', onWindowResize, false)}</script>
         <p style={styling}>
             Design with ❤️  by 
-            <a href="https://github.com/easywork01">Pranjal Raj </a>
+            <a href="https://github.com/easywork01"> Pranjal Raj</a>
             <br/> All Rights Reserved
         </p>
 
