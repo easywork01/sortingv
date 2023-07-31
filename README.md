@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# HOSTED LINK (CLICK TO VISIT): https://easywork01.github.io/Sorting-Visualiser/
 
 ## Available Scripts
 
